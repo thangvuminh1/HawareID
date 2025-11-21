@@ -16,6 +16,14 @@
       "max_usage": 500,
       "created_date": "2024-01-15T00:00:00"
     }
+    {
+      "hardware_id": "cccaa5abaa1cf69fcc57ad081df6cf94",
+      "customer_name": "Thang Vu Minh",
+      "status": "active",
+      "expiry_date": "2099-12-31T23:59:59",
+      "max_usage": 1000,
+      "created_date": "2024-01-01T00:00:00"
+    },
   ],
   "version": "1.0",
   "last_updated": "2024-01-20T12:00:00"
