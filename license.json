@@ -1,30 +1,16 @@
 {
   "licenses": [
     {
-      "hardware_id": "f9e68a2d22072a71c6fc7331f9a4b5fb",
-      "customer_name": "Thang Vu Minh",
-      "status": "active",
-      "expiry_date": "2099-12-31T23:59:59",
-      "max_usage": 1000,
-      "created_date": "2024-01-01T00:00:00"
-    },
-    {
-      "hardware_id": "xyz789...",
-      "customer_name": "Another Customer",
-      "status": "inactive",
-      "expiry_date": "2024-06-30T23:59:59",
-      "max_usage": 500,
-      "created_date": "2024-01-15T00:00:00"
-    },
-    {
       "hardware_id": "cccaa5abaa1cf69fcc57ad081df6cf94",
-      "customer_name": "Thang Vu Minh",
       "status": "active",
-      "expiry_date": "2099-12-31T23:59:59",
-      "max_usage": 1000,
-      "created_date": "2024-01-01T00:00:00"
+      "expiry_date": "2024-12-31T23:59:59",
+      "customer_name": "Thang Vu Minh"
+    },
+    {
+      "hardware_id": "another_hardware_id_here",
+      "status": "active",
+      "expiry_date": "2024-12-31T23:59:59",
+      "customer_name": "Another Customer"
     }
-  ],
-  "version": "1.0",
-  "last_updated": "2024-01-20T12:00:00"
+  ]
 }
